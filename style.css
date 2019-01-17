@@ -44,8 +44,7 @@ body {
 }
 
 #lives, #wins, #losses{
-    /* position: absolute;
-    clear:left; */
+    position: absolute;
     display: inline-block;
     
 }
