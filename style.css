@@ -1,26 +1,21 @@
 .jumbotron{
-    height: 295px;
+   
     background-image: url("images/ftbg.jpg");
-    background-position: center bottom;
-    margin-top: 55px;
-    /* margin-bottom: 20px; */
-    /* text-align: center; */
+    z-index: -1
+
 }
 
 #zoid{
     height:40%;
     width:40%;
+    z-index: 0; 
 
 }
 
-
-#zoid4{
-    text-align: center;
-}
-
-#zoid3{
-    color: white;
-    font-family: 'Press Start 2P', cursive;
+#zoid2{
+    height: 40%;
+    width: 40%;
+    z-index: 0;
 }
 
 
