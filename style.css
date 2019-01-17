@@ -8,15 +8,11 @@
 }
 
 #zoid{
-    float:left;
     height:40%;
     width:40%;
 
 }
 
-#zoid2{
- float:left;
-}
 
 #zoid4{
     text-align: center;
@@ -34,11 +30,10 @@ body {
 
 #letters{
     clear:left;
-    float:left;
 }
 
 #guess{
-    /* float: right; */
+
     width: 800px;
     height: 396px;
     margin-left:300px;
@@ -57,9 +52,6 @@ body {
 
 #wrong{
     clear:left;
-    float: left;
-    /*  */
-
 }
 
 body{
