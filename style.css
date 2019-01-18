@@ -1,6 +1,80 @@
+.jumbotron{
+    height: 295px;
+    background-image: url("images/ftbg.jpg");
+    background-position: center bottom;
+    margin-top: 55px;
+    /* margin-bottom: 20px; */
+    /* text-align: center; */
+}
+
+#zoid{
+    float:left;
+    height:40%;
+    width:40%;
+
+}
+
+#zoid2{
+ float:left;
+}
+
+#zoid4{
+    text-align: center;
+}
+
+#zoid3{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+body {
+    background-color: blueviolet;
+}
+
+#letters{
+    clear:left;
+    float:left;
+}
+
+#guess{
+    /* float: right; */
+    width: 800px;
+    height: 396px;
+    margin-left:300px;
+}
+
+#lives{
+    margin-left: 360px;
+}
+
+#lives, #wins, #losses{
+    /* position: absolute;
+    clear:left; */
+    display: inline-block;
+
+}
+
+#wrong{
+    clear:left;
+    float: left;
+    /*  */
+
+}
+
 body{
-    background-image: url("/images/planteExpress2.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: #69dbc7;
+    background-image: url("images/planteExpress2.jpg");
+}
+
+#bender{
+    margin-left:250px;
+    margin-top:50px;
+    height:35%;
+    width:35%;
+}
+
+#booth{
+    background-image:url("images/booth.png");
+    width: 800px;
+    height: 396px;
 }
